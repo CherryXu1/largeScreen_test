@@ -1,0 +1,3 @@
+[submodule "large_screen_components"]
+	path = large_screen_components
+	url = https://github.com/CherryXu1/large_screen_components.git
