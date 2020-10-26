@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background-size: 1920px;
+}
+
+p,
+b,
+ul,
+li,
+dl,
+dt,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    list-style: none;
+    margin: 0px;
+    left: 0px;
+}
+
+a {
+    color: #8ba8ac;
+    text-decoration: none;
+}
